@@ -20,7 +20,8 @@
 ---
 
 Follow my Github and check the green squares!    
-Challenging myself to code everyday until I find a job. 
+Challenging myself to code everyday until I find a job.    
+`Start Dec 13, 2021`
 
 
 Don't see a green square?   
