@@ -3,8 +3,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/76512208/145384486-e1a2983a-0177-4007-9127-1b042462f0b3.gif">
 
-<!-- - 🔭 I’m currently working on [Airbnb clone with React](https://github.com/ERy03/kikoemas) -->
-- 🔭 I’m currently working on **Airbnb experience clone with React**
+- 🔭 I’m currently working on [Airbnb clone with React](https://github.com/ERy03/react-airbnb)
 
 - 🌱 I’m currently learning **React**
 
